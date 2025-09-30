@@ -23,5 +23,5 @@ The main focus areas of this module include:
 
 ## 🛠️ Technologies & Tools Used  
 - **Languages:** C / C++ / OpenGL  
-- **Tools:** GCC Compiler, OpenGL/GLUT, Visual Studio Code (or preferred IDE)  
+- **Tools:** GCC Compiler, OpenGL/GLUT, Visual Studio Code (or preferred IDE), CodeBlock Code 
 - **Version Control:** Git & GitHub  
